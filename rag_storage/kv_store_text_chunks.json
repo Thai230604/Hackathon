@@ -1,0 +1,184 @@
+{
+  "chunk-d030fcd32155026433c4e58b977769fa": {
+    "tokens": 4,
+    "content": "My name is Thai",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d030fcd32155026433c4e58b977769fa",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:726364d42e7ba428d810b62dfafd6766",
+      "default:extract:217e0e6ac18778f10c2a32cbbf42cf3e"
+    ],
+    "create_time": 1762830321,
+    "update_time": 1762830327,
+    "_id": "chunk-d030fcd32155026433c4e58b977769fa"
+  },
+  "chunk-bb63c664559baadeca4314be9913f766": {
+    "tokens": 5,
+    "content": "HUMAN RIGHTS POLICY",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-bb63c664559baadeca4314be9913f766",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:f1cb3e8e83808d65937254f7b6f76ba5",
+      "default:extract:a47cd2afe3ef1e618a5e10f423c708ff"
+    ],
+    "create_time": 1762830708,
+    "update_time": 1762830716,
+    "_id": "chunk-bb63c664559baadeca4314be9913f766"
+  },
+  "chunk-8036c77994c4936d81e9e0bb478827b2": {
+    "tokens": 510,
+    "content": "Enacted on 01-Dec-2022\nFPT Software Company Limited\n1\n3\n2\nPurpose\nHuman Rights Policy\nScope of Policy\nFPT Software Co., Ltd and its subsidiaries (hereinafter referred to as “FSOFT” or “the Company”) have \nissued “Code of Business Conduct” for the purpose of conducting ethical behavior with integrity in \nbusiness activities, and human rights is also defined as one of those purposes. \nWith the recent tightening of regulations on human rights in each country as well as international \nstandards such as The Guiding Principles on Business and Human Rights, The Principles for \nResponsible Contracts, The Tripartite declaration of principles concerning multinational enterprises \nand social policy …, FSOFT is enacting the Human Rights and Employment Policy with principles in \norder to prevent and address human rights issues. In addition to facilitating compliance with relevant \nlaws and regulations around the globe, these principles will guide our employees, customers, suppliers, \npartners and authority to recognize respect for human rights as the highest priority in each and every \nstage of our business operations and enable them to take action accordingly.\nThe Company ensures the compliance and implementation of the Human Rights policy with the basic \npoints as below:\na. Discrimination and Harassment-Free Workplace\nWe are committed to providing and maintaining a work environment free from discrimination and \nharassment. The Company policy prohibits sexual harassment and discrimination based on pregnancy, \nchildbirth or related medical conditions, race, religious creed, color, national origin or ancestry, \nphysical or mental disability, medical condition, marital status, age, sexual orientation, or any other \ntypes of discrimination prohibited by the Vietnam Government law.  \nWe expect our partners to have appropriate gesture and behaviour with a sense of fairness and equal \nopportunity for everyone. \nWe commit that there are no incidents regarding discrimination, harassment in the Company, no \ncomplaints about discrimination or harassment related to the Company.\nb. Abolition of Forced Labor \nWe are against any form of coerced or prison labor, use of physical punishment or threats of violence \nor other forms of physical, sexual, psychological or verbal abuse as a method of discipline or control. \nOur Company is committed not to use force labor in any form.\nThis Policy is applied to all Employees, customers, partners, contractors, and all parties who are \nrelated to the business activities of FPT Software Company Limited. Every member of the Company is \nresponsible for reading, understanding, and complying to this policy.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8036c77994c4936d81e9e0bb478827b2",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:85c1e27934162c95232b7febbfd1d035",
+      "default:extract:75cd7af2172d93d397873cf9b4747da6"
+    ],
+    "create_time": 1762830716,
+    "update_time": 1762830729,
+    "_id": "chunk-8036c77994c4936d81e9e0bb478827b2"
+  },
+  "chunk-510acb1bff63f13c0db2f7ed0a867d5d": {
+    "tokens": 460,
+    "content": "Enacted on 01-Dec-2022\nFPT Software Company Limited\nc. Abolition of Child Labor \nWe are against the exploitation of children (any person below the age of 18 years) through any form of \nwork that deprives them of their childhood, interferes with their ability to attend regular school, and is \nmentally, physically, socially or morally harmful.  \nWe are committed not to employ child labor under the age of 18 and not engage in corporation with \nany organization using child labor.\nd. Freedom of Expression & Association \nFSOFT respects and protects individual’s privacy. \nOur Employees have the rights to choose their jobs, rights to assemble, communicate and join \nassociation of their choice in matters related to their employment within the purview of the policies \nand procedures of the Company. \n4 Employment Policy\na. Diversity & Inclusion, Equal Opportunity\nFSOFT prioritizes Diversity and Inclusion, we respect the different talents and experience. Our goal \nis to create an inclusive workplace and leverage the power of diversity for sustainable competitive \nadvantage, where employees from different backgrounds can have the opportunity to participate, \ndevelop and contribute freely and equitably. \nWe ensure that all individuals have equal opportunities, a discrimination and harassment-free \nworkplace. We do not discriminate or allow harassment based on race, color, religion, disability, \ngender, national origin, sexual orientation, gender identity, gender expression, age, genetic \ninformation, military status or any other types of discrimination and harassment prohibited by the \nVietnam Government law. \nb. Health, Safety, and Environment \nWe are committed to demonstrating a high standard of environmental protection and provision of a \nsafe and healthy workplace. We have in place various practices, policies and financial & non-financial \nmeasures to ensure a safe and healthy workforce. \nOur Company commits that there are no occupational incidents occurring at the Company. All \nEmployees receive periodic health examination to screen for occupational diseases if any and \noccupational safety training annually. \nc. Working hours and overtime\nWe are committed to compliance with the Vietnam Labor Code, the Company’s Internal Labor \nRegulation and Collective Labor Agreement, and other regulations regarding the hours of working, \npayment of salary and overtime salary:",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-510acb1bff63f13c0db2f7ed0a867d5d",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a9ac6eb1be30b3cd242b30e276b70793",
+      "default:extract:1cd9be090e7ba5b50dfbece07d1e8f25"
+    ],
+    "create_time": 1762830733,
+    "update_time": 1762830746,
+    "_id": "chunk-510acb1bff63f13c0db2f7ed0a867d5d"
+  },
+  "chunk-c75b89fa027d69e15984474fb2f7984f": {
+    "tokens": 479,
+    "content": "Enacted on 01-Dec-2022\nFPT Software Company Limited\n• The overtime working hours must not exceed 60 hours/month, 300 hours/year. \n• The Employee’s salary and overtime salary are calculated and paid in accordance with the Labor \nCode. \n• Except for exceptional cases, otherwise, employees are requested to work overtime on voluntary \nbasis, without being forced or exploited. \nd. Wages\nAt all times, the Company ensures it pays employees higher than the minimum wages prescribed by \ngovernments (Currently, the Company is paying the minimum wages for trained Employees in Region I \nof 5,007,600 dong). All Employees are ensured to understand and aware of their salaries and benefits. \ne. Education and Training\nFSOFT are committed to provide support for Employees to develop their own capacity, organize \ndifferent professional training classes to improve knowledge and skills suitable for each type of \nEmployee. \nWe commit that the average minimum professional training time per employee per year is 8 hours of \ntraining.\nf. Dialogue with Multiple Stakeholders \nFSOFT will incorporate the viewpoints and opinions of third parties in addition to internal stakeholders \nto prevent FSOFT’s products and services from violating human rights. FSOFT will build partnerships \nand collaborate closely with external experts and various other relevant stakeholders.  \nWe are committed to holding at least 01 dialogue between the Company’s Board of Directors and \nall Employees annually to listen to opinions, suggestions, and supplement necessary resources for \nEmployees as well as improve the environment.\ng. Compulsory Insurance (including social insurance, medical insurance, and \nunemployment insurance)\nWe are committed to fully pay the insurances including social insurance, medical insurance, and \nunemployment insurance for all employees signing official labor contracts with the Company in \naccordance with the Law on Social Insurance, to ensure all of our employees receiving the medical \ncare, support in case of unemployment, and pension benefits. \nh. Profit sharing\nThe welfare fund for Employees are determined based on the net profit after tax each year and equals \nto 20% of the total profit after tax. \nThe Company deducts 80% of the welfare fund for Employees to reward Employees based on their \ndirect contribution to the business results. The specific reward rate will be agreed upon and regulated \nduring the implementation process.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c75b89fa027d69e15984474fb2f7984f",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:9d8863525e5fab47f4d22f45713e8488",
+      "default:extract:c8f6ef7ef1c4e648c3569fee4537bcb8"
+    ],
+    "create_time": 1762830750,
+    "update_time": 1762830767,
+    "_id": "chunk-c75b89fa027d69e15984474fb2f7984f"
+  },
+  "chunk-9ae62a1b4e7760735f20363930b90cfd": {
+    "tokens": 306,
+    "content": "Enacted on 01-Dec-2022\nFPT Software Company Limited\nThe remaining 20% of the welfare fund for Employees will be used for Employee’s benefits and agreed \nwith the Employees before using. \ni. Anti-Bribery and Anti-Corruption \nOur Anti-Bribery & Anti-Corruption policy sets out our position on bribery and corruption in detail. We \nhave adopted a whistle blower mechanism for reporting concerns about unethical behavior, actual or \nsuspected fraud, or violation of the Company’s Code of Business Conduct.  \nj. Reports\nIf there is a suspicion that the human rights policy of each country or internal rules, including this \npolicy, are violated, a Compliance consultation counter shall be established and operated to enable \nan appropriate and prompt response.  \nAnyone who violates the human rights laws of each country or this policy will be appropriately and \npromptly punished in accordance with the laws of each country and internal regulations. \n5 Document Management & Access\nWe are committed to ensure compliance to all our obligations globally and in doing so, believe it is \nimportant to educate employees on their rights and responsibilities. We have created reference \ndocuments in the form of handbooks and policy portals, that serve as a guide to employees on their \nbenefit entitlements. These documents are reviewed regularly to ensure they are always updated.  All \nEmployees can access to the Company’s internal website – QMS.FSOFT.COM.VN to read the details of \nthese documents. \nEnd",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9ae62a1b4e7760735f20363930b90cfd",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:ee0ed20c6dde197733688dd42350d057",
+      "default:extract:d0987065acc2fe70d4a47604b6ec6ea2"
+    ],
+    "create_time": 1762830770,
+    "update_time": 1762830781,
+    "_id": "chunk-9ae62a1b4e7760735f20363930b90cfd"
+  },
+  "chunk-54da87d23fdf59b427f5d0b0b9c8da39": {
+    "tokens": 1200,
+    "content": "HUMAN RIGHTS POLICY \n\nEnacted on 01-Dec-2022\nFPT Software Company Limited\n1\n3\n2\nPurpose\nHuman Rights Policy\nScope of Policy\nFPT Software Co., Ltd and its subsidiaries (hereinafter referred to as “FSOFT” or “the Company”) have \nissued “Code of Business Conduct” for the purpose of conducting ethical behavior with integrity in \nbusiness activities, and human rights is also defined as one of those purposes. \nWith the recent tightening of regulations on human rights in each country as well as international \nstandards such as The Guiding Principles on Business and Human Rights, The Principles for \nResponsible Contracts, The Tripartite declaration of principles concerning multinational enterprises \nand social policy …, FSOFT is enacting the Human Rights and Employment Policy with principles in \norder to prevent and address human rights issues. In addition to facilitating compliance with relevant \nlaws and regulations around the globe, these principles will guide our employees, customers, suppliers, \npartners and authority to recognize respect for human rights as the highest priority in each and every \nstage of our business operations and enable them to take action accordingly.\nThe Company ensures the compliance and implementation of the Human Rights policy with the basic \npoints as below:\na. Discrimination and Harassment-Free Workplace\nWe are committed to providing and maintaining a work environment free from discrimination and \nharassment. The Company policy prohibits sexual harassment and discrimination based on pregnancy, \nchildbirth or related medical conditions, race, religious creed, color, national origin or ancestry, \nphysical or mental disability, medical condition, marital status, age, sexual orientation, or any other \ntypes of discrimination prohibited by the Vietnam Government law.  \nWe expect our partners to have appropriate gesture and behaviour with a sense of fairness and equal \nopportunity for everyone. \nWe commit that there are no incidents regarding discrimination, harassment in the Company, no \ncomplaints about discrimination or harassment related to the Company.\nb. Abolition of Forced Labor \nWe are against any form of coerced or prison labor, use of physical punishment or threats of violence \nor other forms of physical, sexual, psychological or verbal abuse as a method of discipline or control. \nOur Company is committed not to use force labor in any form.\nThis Policy is applied to all Employees, customers, partners, contractors, and all parties who are \nrelated to the business activities of FPT Software Company Limited. Every member of the Company is \nresponsible for reading, understanding, and complying to this policy.\nEnacted on 01-Dec-2022\nFPT Software Company Limited\nc. Abolition of Child Labor \nWe are against the exploitation of children (any person below the age of 18 years) through any form of \nwork that deprives them of their childhood, interferes with their ability to attend regular school, and is \nmentally, physically, socially or morally harmful.  \nWe are committed not to employ child labor under the age of 18 and not engage in corporation with \nany organization using child labor.\nd. Freedom of Expression & Association \nFSOFT respects and protects individual’s privacy. \nOur Employees have the rights to choose their jobs, rights to assemble, communicate and join \nassociation of their choice in matters related to their employment within the purview of the policies \nand procedures of the Company. \n4 Employment Policy\na. Diversity & Inclusion, Equal Opportunity\nFSOFT prioritizes Diversity and Inclusion, we respect the different talents and experience. Our goal \nis to create an inclusive workplace and leverage the power of diversity for sustainable competitive \nadvantage, where employees from different backgrounds can have the opportunity to participate, \ndevelop and contribute freely and equitably. \nWe ensure that all individuals have equal opportunities, a discrimination and harassment-free \nworkplace. We do not discriminate or allow harassment based on race, color, religion, disability, \ngender, national origin, sexual orientation, gender identity, gender expression, age, genetic \ninformation, military status or any other types of discrimination and harassment prohibited by the \nVietnam Government law. \nb. Health, Safety, and Environment \nWe are committed to demonstrating a high standard of environmental protection and provision of a \nsafe and healthy workplace. We have in place various practices, policies and financial & non-financial \nmeasures to ensure a safe and healthy workforce. \nOur Company commits that there are no occupational incidents occurring at the Company. All \nEmployees receive periodic health examination to screen for occupational diseases if any and \noccupational safety training annually. \nc. Working hours and overtime\nWe are committed to compliance with the Vietnam Labor Code, the Company’s Internal Labor \nRegulation and Collective Labor Agreement, and other regulations regarding the hours of working, \npayment of salary and overtime salary:\nEnacted on 01-Dec-2022\nFPT Software Company Limited\n• The overtime working hours must not exceed 60 hours/month, 300 hours/year. \n• The Employee’s salary and overtime salary are calculated and paid in accordance with the Labor \nCode. \n• Except for exceptional cases, otherwise, employees are requested to work overtime on voluntary \nbasis, without being forced or exploited. \nd. Wages\nAt all times, the Company ensures it pays employees higher than the minimum wages prescribed by \ngovernments (Currently, the Company is paying the minimum wages for trained Employees in Region I \nof 5,007,600 dong). All Employees are ensured to understand and aware of their salaries and benefits. \ne. Education and Training\nFSOFT are committed to provide support for Employees to develop their own capacity, organize \ndifferent professional training classes to improve knowledge and skills suitable for each type of \nEmployee. \nWe commit that the average minimum professional training time per employee per year is 8 hours of \ntraining.\nf. Dialogue with Multiple Stakeholders \nFSOFT will",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-07c203d2cdd895d5d1d2f815a849d771",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e87acdbfd6fcab4360ed025048f11562",
+      "default:extract:240e9a44218ed165d9813fe88e239e0a"
+    ],
+    "create_time": 1762831079,
+    "update_time": 1762831101,
+    "_id": "chunk-54da87d23fdf59b427f5d0b0b9c8da39"
+  },
+  "chunk-780a3e883780bf3718340dd369b9eef0": {
+    "tokens": 662,
+    "content": "of 5,007,600 dong). All Employees are ensured to understand and aware of their salaries and benefits. \ne. Education and Training\nFSOFT are committed to provide support for Employees to develop their own capacity, organize \ndifferent professional training classes to improve knowledge and skills suitable for each type of \nEmployee. \nWe commit that the average minimum professional training time per employee per year is 8 hours of \ntraining.\nf. Dialogue with Multiple Stakeholders \nFSOFT will incorporate the viewpoints and opinions of third parties in addition to internal stakeholders \nto prevent FSOFT’s products and services from violating human rights. FSOFT will build partnerships \nand collaborate closely with external experts and various other relevant stakeholders.  \nWe are committed to holding at least 01 dialogue between the Company’s Board of Directors and \nall Employees annually to listen to opinions, suggestions, and supplement necessary resources for \nEmployees as well as improve the environment.\ng. Compulsory Insurance (including social insurance, medical insurance, and \nunemployment insurance)\nWe are committed to fully pay the insurances including social insurance, medical insurance, and \nunemployment insurance for all employees signing official labor contracts with the Company in \naccordance with the Law on Social Insurance, to ensure all of our employees receiving the medical \ncare, support in case of unemployment, and pension benefits. \nh. Profit sharing\nThe welfare fund for Employees are determined based on the net profit after tax each year and equals \nto 20% of the total profit after tax. \nThe Company deducts 80% of the welfare fund for Employees to reward Employees based on their \ndirect contribution to the business results. The specific reward rate will be agreed upon and regulated \nduring the implementation process. \nEnacted on 01-Dec-2022\nFPT Software Company Limited\nThe remaining 20% of the welfare fund for Employees will be used for Employee’s benefits and agreed \nwith the Employees before using. \ni. Anti-Bribery and Anti-Corruption \nOur Anti-Bribery & Anti-Corruption policy sets out our position on bribery and corruption in detail. We \nhave adopted a whistle blower mechanism for reporting concerns about unethical behavior, actual or \nsuspected fraud, or violation of the Company’s Code of Business Conduct.  \nj. Reports\nIf there is a suspicion that the human rights policy of each country or internal rules, including this \npolicy, are violated, a Compliance consultation counter shall be established and operated to enable \nan appropriate and prompt response.  \nAnyone who violates the human rights laws of each country or this policy will be appropriately and \npromptly punished in accordance with the laws of each country and internal regulations. \n5 Document Management & Access\nWe are committed to ensure compliance to all our obligations globally and in doing so, believe it is \nimportant to educate employees on their rights and responsibilities. We have created reference \ndocuments in the form of handbooks and policy portals, that serve as a guide to employees on their \nbenefit entitlements. These documents are reviewed regularly to ensure they are always updated.  All \nEmployees can access to the Company’s internal website – QMS.FSOFT.COM.VN to read the details of \nthese documents. \nEnd",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-07c203d2cdd895d5d1d2f815a849d771",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:326eae1a48be735856963beecbd4917a",
+      "default:extract:4fde92b6722479f6990d6c61910ae589"
+    ],
+    "create_time": 1762831079,
+    "update_time": 1762831100,
+    "_id": "chunk-780a3e883780bf3718340dd369b9eef0"
+  },
+  "chunk-ab7822d0ee259f7ed99492d75a4d9bf7": {
+    "tokens": 1200,
+    "content": "FJP Organization 2025\nVersion 1.4\nEffective from May 1st, 2025\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n2\n札幌事業所\nHaiLH1\n• 東京本社\n• KhacDV\n名古屋事業所\nTanNM\n福岡事業所\nHirose\n広島事業所\nHoshino\nＦＰＴニアショアジャパン\nHaiLH1\n• FPT日本語学校\nHoaPTT\n大阪事業所\nNakai\n栃木事業所\n群馬事業所\nVietLQ\n静岡事業所\nTBD\n人材管理本部\nビジネスディベロップメント事業本部\n© FPT Japan  Holdings- Internal Use\n法人組織図\nＦＰＴジャパンホールディングス\n• 東京本社\n• 札幌事業所\n• 名古屋事業所\n• 栃木事業所\n• 大阪事業所\n• 広島事業所\n• 福岡事業所\n• 静岡事業所\n• 群馬事業所\nホールディングス機能\nKhacDV\n管理本部\n事業所\nジャパンマーケティング&パブリックリレーション本部\n営業本部\nＦＰＴ日本語学校 (FPT Japan Academy)\nHoaPTT\nエデュケーション\n子会社\nＦＰＴソフトウェアジャパン(株) (FSJ)\nKhacDV\nＦＰＴコンサルティングジャパン(株) (FCJ)\nLongNH1\nＦＰＴニアショアジャパン(株)（FNS）\nHaiLH1\nＦＰＴテクノジャパン (株) (FTJ)\nLinhNH9\n(株) エヌ・エイ・シー (NAC)\nHanaoka\nFPTスマートクラウドジャパン (株) (FCI)\nLongNH1\nＦＰＴソフトウェア大連 (株) (FDL)\nTuanPT22\n上海扶丕悌软件有限公司 (FSH)\nTuanPT22\n扶丕悌冲软件（大连）有限公司 (FOC)\nTuanPT22\n扶丕悌冲软件（常州）有限公司 (FOD)\nTuanPT22\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \n Sales\nCRO\nLinhNH9\nBU1\nHungDT1\nST3\nTrinhDHK\nST5 \nChiNTM1\nST8\nAnhLH1\nFNS-S\nMiyazato\nNGO\nTanNM\nOSK\nVuongVV\nFKO\nLyNTT8\nST9 \nEmi\nBU3\nLinhNH9\nBIH-S\nMatsumoto\nST6\nKhangPN1\nISG ST\nIse\nST7\nSagawa \nSU1\nHungDT1\nSU2\nHungDT1\nBU2\nHoanQL\nSU1\nPhuongNVH\nSU2\nThinhNP5\nSU1\nLinhNH9\nSU3\nAnhLH12\nSU2\nOda\nProgram&COE\nRotation\nHoanhND\nGRM\nVuong.Nguyen\nTuanPT22\nDynamics/SAP\nPhongNT24\nEndo\nLegacy\nDuongNT\nHealthcare\nHaiLT5\nAI\nLongNH1\nCobol Park\nGiapHD\nOnouchi\nFJP Organization Chart 2025\nSupportSales Delivery\nCHAIRMAN\nTanihara\nCEO\nKhacDV\nBOD\nBrand & \nBusiness \nPromotion\nCMO\nNakai\nJMC\nMatsukawa\nWorkforce\nFUN\nTuanBL\nLDI\nThaoTV\nHR\nNhuPTQ\nRD1\nLamLT2\nRD2\nDiepNM\nRA\nManhPD1\nRPP\nTakatori\nCPO\nThaoTV\nBusiness \nAssurance\nCOF\nVuTH6\nAF\nGiangNT10\nSSC\nHuyenPT1\nCPD\nHoaNT1\nLRC\nNhungCH\nPRC\nNgocNB15\nIT/ISM\nUrata\nFST\nHaiDTT\nFJA\nHoaPTT\nCOO\nHoaPTT\nProgram\nNew \nEstablishment New Promotion\nBusiness Hunting\nEVP\nVuong.Nguyen\nSCD\nKameyama\nBCO\nThaoNTP1\nSPP\nVuong.Nguyen\nSPD\nHirota\nSZK\nVuong.Nguyen\nTSD\nVietLQ\nFCN Sales\nTuanPT22\nCIS\nTsuchiya\nDelivery\nDPS\nDuyNT21\nMANUFACTURING\nGMG\nHieuNH5\nDMG\nAnhDHV\nFINANCE\nFSG\nNgaPV\nIFS\nPhuongPQ1\nGHC\nHaiLT5\nEBS \nPhongNT24\nGSI\nDaiL1\nNVI\nDuongNT\nDLG\nNenLT\nQA\nHueNT\nFCJ\nLongNH1\nFCJ Sales\nHasegawa\nJFA\nHoangNC1\nFA Sales\nHirota\nBIH\nCuongN1",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0ce30bc00986b2d69d89fccc334bad4e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:d5eedb0975f00c9c0278164096b80615",
+      "default:extract:87f4293515b99ed9f9bbbf0783febd27"
+    ],
+    "create_time": 1762831771,
+    "update_time": 1762831813,
+    "_id": "chunk-ab7822d0ee259f7ed99492d75a4d9bf7"
+  },
+  "chunk-a385a60e1754803c13b6cd205f53afb6": {
+    "tokens": 1200,
+    "content": "AnhDHV\nFINANCE\nFSG\nNgaPV\nIFS\nPhuongPQ1\nGHC\nHaiLT5\nEBS \nPhongNT24\nGSI\nDaiL1\nNVI\nDuongNT\nDLG\nNenLT\nQA\nHueNT\nFCJ\nLongNH1\nFCJ Sales\nHasegawa\nJFA\nHoangNC1\nFA Sales\nHirota\nBIH\nCuongN1\nFNS\nHaiLH1\nNEARSHORE\nJES\nTinNC\nDCC\nImahashi\nFCN\nTuanPT22\nFAI\nLongNH1\nFOJ\nKosugi\nSYNERGY UNIT\nDXG\nFabien\nISG\nThuanNPC\nLCG\nHaPV2\nNAC\nHanaoka\nCDO\nHoanhND\nCEO\nKhacDV\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software 4\nCEO\nKhacDV\nJapan Marketing & Public Relation Division\nBusiness Development Division Organization Chart 2025\nBrand & \nBusiness Promotion\nCMO\nNakai\nJMC\nMatsukawa\nEVP\nVuong.Nguyen\nFA Business \nHunting\nFA JBD\nHirota\nBusiness Hunting\nSPP\nVuong.Nguyen\nSPD\nHirota\nTSD\nVietLQ\nSZK\nVuong.Nguyen\nSCD\nKameyama\nBCO\nThaoNTP1\nAD\nLinhTT43\nBD\nPD\nFCN Sales\nTuanPT22\nCloud & \nInfrastructure \nServices\nCIS\nTsuchiya\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \nSales Organization Chart 2025\n CEO\nKhacDV\nCRO\nLinhNH9\nFA\nHirota\nFA G3S\nKhangPN1\nFA G1S\nVietLQ\nFA G5S\nTungNS32\nBU3\nLinhNH9\nSU1\nLinhNH9\nSU2\nOda\nSU3\nAnhLH12\nBU2\nHoanQL\nSU2\nThinhNP5\nSU1\nPhuongNVH\nBU1\nHungDT1\nSU1\nHungDT1\nSU2\nHungDT1\nST3\nTrinhDHK\nST5\nChiNTM1\nST6\nKhangPN1\nST8\nAnhLH1\nST7\nSagawa\nST9\nEmi\nISG ST\nIse\nBIH-S\nMatsumoto Toru\nNGO\nTanNM\nOSK\nVuongVV\nFKO\nLyNTT8\nFNS-S\nMiyazato\nBOD\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n※ ( ) Acting\n※New Promotion\n※New Establishment \nDelivery Organization Chart 2025\nFCJ\nLongNH1\nOnouchi\nCEO\nKhacDV\nCDO\nHoanhND\nEBS \nPhongNT24\nHayashi\nSC\n(QuynhDM)\nDC\n(QuanHM3)\nJFA\nHoangNC1\nPDS \nAnNV17\nABX \nCuongNV87\nNEARSHORE\nJES\nTinNC\nJES JPC\nHuynhDT\nFNS\nHaiLH1\nMiyazato\nTEST\nHangNT\nDEV\nThanhVTC\nOkinawa\nFKO\nHirose\nToanTX1\nHKD\nHaiLH1\nKonaka\nGSI\nDaiL1\nD1\nThongVN\nD2\nDaiL1\nGHC\nHaiLT5\nPA\nHaiLT5\nDH\nHoangPD3\nME\n(ThuyetDN)\nNVI\nDuongNT\nTS\nDienTQ\nUS\nNhanDT3\nMS\nMinhNQ33\nIS\nAnhDT8\nFINANCE\nIFS\nPhuongPQ1\nIS\nGiapHD\nMK\nPhuongPQ1\nFS\nPhuongPQ1\nFSG\nNgaPV\nDX\n(HungNV1)\nCX\nHuyNQ23\nCO\nNgaPV\nTanaka\nQA\nHueNT\nQA FNS\nPhuongNLTM\nCOMMON\nDCC\nImahashi\nPMO\nManhPD1\nDC\nImahashi\nDLG\nNenLT\nPhuocTT\nRD\n(TuanDM5)\nEM\nHongLTB\nAS\nMinhLN2\nMS\nDinhNT\nG1\nVietLQ\nG1D\nCuongNV58\nG3\nKhangPN1\nG3D1\nThanhDD3\nG3D2\nLePTN\nG5\nTungNS32\nG5D2\nLocNP\nG5D1\nLyLM1\nGMG\nHieuNH5\nMPE\nHieuNH5\nMDX\nTuanNB\nMCW\nHuyTV4\nDMG\nAnhDHV\nG2\nAnhDHV\nG3\nSonPT\nMANUFACTURING\nBIH\nCuongN1\nDPS\nDuyNT21\nFCN\nTuanPT22\nPMO \nPhongHV\nRotation\nHoanhND\nGRM\nVuong.Nguyen\nTuanPT",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-0ce30bc00986b2d69d89fccc334bad4e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5aaf347e483377a1baeedb00d34cc005",
+      "default:extract:0c48ee03a98c631e76ec1ebbaf56b1ac"
+    ],
+    "create_time": 1762831771,
+    "update_time": 1762831992,
+    "_id": "chunk-a385a60e1754803c13b6cd205f53afb6"
+  },
+  "chunk-569a38002a0c774b2683559b78ad0d01": {
+    "tokens": 1200,
+    "content": "HieuNH5\nMPE\nHieuNH5\nMDX\nTuanNB\nMCW\nHuyTV4\nDMG\nAnhDHV\nG2\nAnhDHV\nG3\nSonPT\nMANUFACTURING\nBIH\nCuongN1\nDPS\nDuyNT21\nFCN\nTuanPT22\nPMO \nPhongHV\nRotation\nHoanhND\nGRM\nVuong.Nguyen\nTuanPT22\nDynamics/SAP\nPhongNT24\nEndo\nLegacy\nDuongNT\nHealthcare\nHaiLT5\nAI\nLongNH1\nCobol Park\nGiapHD\nOnouchi\nFAI\nLongNH1\nTosaki \nBinhDT20\nJDCC (NenLT, TuanPT22, HaNH2, HoangNC1, ManhPD1, HueNT)\nSynergy Unit\nLCG\nHaPV2\nDXG\nFabien\nNAC\nHanaoka\nInaba\nISG\nThuanNPC\nTrungTQ13\nIMS\nThuanNPC\nTagawa\nSEMI / CL\nTrungTQ13\nNB\nAnhNTV23\nFOJ\nKosugi\nMSD\nFukuoka\nMSI\nKosugi\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\nBusiness Assurance Division \nOrganization Chart 2025\nCOO\nHoaPTT\nCEO\nKhacDV\nFinance\nCPD\nHoaNT1\nAF\nGiangNT10\nLegal\nLRC\nNhungCH\nLRC\nGSD\nFC\nSSP\nAdministration\nSSC\nHuyenPT1\nPRC\nNgocNB15\nSystem & Education\nIT/ISM\nUrata\nFST\nHaiDTT\nFJA\nHoaPTT\nVice\nQuyenBTN\nCOF\nVuTH6\nMA\nVuTH6\nCOF\nVanBK\nIC\nTungHT15\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software 8\nWorkforce Division\nOrganization Chart 2025\nCPO\nThaoTV\nCEO\nKhacDV\nPROGRAM\nCareer Development (CD)\nIijima/ HaLT12\nWorkforce iDX (wDX)\nLienTK2\nCorporate Sustainability Promotion (CSP)\nKimura\n13k5\nManhPD1\nEmployee Experience (EX)\nTuanBL\nEmployee Branding (EB)\nAnhNP29\nFresher Academy (FrA) \nLamLT2\nTalent Acquisition\nRD1\nLamLT2\nRD2\nDiepNM\nRPP\nTakatori\nPlanning & Assignment\nRA\nManhPD1\nCulture & Employee \nExperience\nFUN\nTuanBL\nHuman Management\nHR\nNhuPTQ\nVice\nHanNTT\nLearning & Development\nLDI\nThaoTV\nVice\nTakatori\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \nOperation ConsultingTechnology ConsultingBusiness/DX Consulting\nFCJ Overall Management\nFCJ Organization Chart 2025 CEO\nLongNH1\nCorporate Management (CMG)\nTada\nOperation Transformation\n(OX) \nArakawa\nLow code & Modernization Service\n(LMS)\nTabata\nTechnology Service \n(TS)\nAraki\nTanaka\nMicrosoft Solution Service\n(MSS)\nNgocNK\nCustomer Transformation Service \n(CX)\nIshihara\nSAP-Core Account\n(SC) \nOgawa.Shinji\nSAP-Migration \n(SM) \nKagawa\nSAP-Application MS\n(SA) \nWatanabe.Osamu\nSAP-Implementation\n(SI) \nSaegusa\nManaged Service \n(MS)\nKosugi\nBusiness Consulting (BX)\nKawakami\nBusiness Transformation \n(BX)\nKawakami\nManufacturing SCM Solution\n(MSS)\nMashimo\nEnterprise Management Solution \n(EMS)\nOgawa.Yusuke\nGeneral Construction Solution\n(GCS)\nSeta\nPeople Transformation\n(PX)\nSuzuki.Takuya \nKyushu Transformation\n(KSX)\nKawano\nEnterprise Transformation (EX)\nEndo\nLongNH1\n OnouchiYoshida\nBOD\nEndo\nKawakami Hasegawa\nEXCO \nDigital Transformation Service (DX)\nOnouchi\nHidaka\nBiz Producer Service\n(BPG & Sales)\nHasegawa\nTsubota\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \n10\nFPT NAC\nOrganization Chart 2025\nEcosystem\nBusiness Solution \nCreative \nIntelligence \nEnterprise \nSolution\nCorporate Management\nOkagawa \nMana\nKamakura \nTakeshi\nKusaba \nKosuke\nSoshi \nNobuo\nYamamoto \nRyosuke\nProfessional \nService\nKitajima \nMichiharu\nBOD\nHanaoka – LongNH1 – Inaba\nCEO\nHanaoka\nKumakiri \nKatsuomi\nNaito \nTomoko\nInformation system Management \nYamamoto \nRyosuke\nBusiness \nProducer Sales\nHanaoka\nMakoto\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \nLongNH1\nFPT AI Organization Chart 2025\nLongNH1 Tosaki BinhDT20\nSALES & MARKETING\nLongNH1\nFAI MKT\nHongHV\nFAI",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-0ce30bc00986b2d69d89fccc334bad4e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:0817677836d817aae3f566c70cd4afce",
+      "default:extract:f6967e3f78c44ffbf85bc38f22c37090"
+    ],
+    "create_time": 1762831771,
+    "update_time": 1762831847,
+    "_id": "chunk-569a38002a0c774b2683559b78ad0d01"
+  },
+  "chunk-68c7325392d09693d8c49c1e4d3420e8": {
+    "tokens": 928,
+    "content": "aito \nTomoko\nInformation system Management \nYamamoto \nRyosuke\nBusiness \nProducer Sales\nHanaoka\nMakoto\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \nLongNH1\nFPT AI Organization Chart 2025\nLongNH1 Tosaki BinhDT20\nSALES & MARKETING\nLongNH1\nFAI MKT\nHongHV\nFAI-S\nLongNH1\nAI FACTORY\n(FCIJ)\nUemura\nFCIJ AFC\nMuraoka\nFCIJ AFO\nKuramoto\nDATA & AI SERVICES\nBinhDT20\nFAI AIP\nVinhND1\nFAI TIX\nNhungNTH8\nFAI ABC\nVinhND1\nHieuLX\nFAI DAC\nBinhDT20\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software \nCEO\nTuanPT22\nDELIVERY\nBinhND20\nFPT China Organization Chart 2025\nBOD\nSALES\nTuanPT22\nDLS\nWORKFORCE & \nBUSINESS ASSURANCE\nHoaPTT\nFOC GA\nFOD GA\nFCN SUPFOD\nShihaiW\nTD1\nWeiguoX\nTD2\nJingruL\nTD3\nShihaiW\nFOC\nYadongZ\nJunfengC\nTD1\nYingangH\nTD2\nNingZ\nTD3\nXinL\nFDL\nBinhND20\nDC\nBinhND20\nFSH\nBinhND20\nFA\nHoangNC1\nDMO\nBinhND20\nBCO\nST2\nST1\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\n© Copyright FPT Software – Level of Confidentiality \nFPT JAPAN GROUP - TOP MANAGEMENT\nManager Full Name Account Mail Position FSO Title FJP Title\nTanihara Toru Tanihara.Toru FJP Chairman\n取締役会長 Chairman\nDo Van Khac KhacDV\nFSOFT Senior Executive Vice President\nFJP Representative Director and Chief Executive Officer\nFJP 代表取締役社長\nSEVP , PPL CEO\nNguyen Viet Vuong Vuong.Nguyen\nFSOFT Vice President\nFJP Executive Vice President\nFJP 代表取締役副社長\nVP EVP\nNguyen Huu Long LongNH1\nFSOFT Senior Vice President \nFJP Executive Vice President\nFJP専務執行役員\nSVP EVP\nNguyen Hoang Linh LinhNH9\nFSOFT Vice President\nFJP Senior Vice President  and Chief Revenue Officer\nFJP 専務執行役員兼最高レベニュー責任者\nVP SVP , CRO\nNguyen Duc Hoanh HoanhND\nFSOFT Vice President and Deputy Chief Delivery Officer\nFJP Senior Vice President and Chief Delivery Officer\nFJP 専務執行役員兼最高デリバリー責任者\nVP , Deputy CDO SVP , CDO\nPham Thi Thanh Hoa HoaPTT Vice President and Chief Operating Officer\n取締役執行役員兼最高執行責任者 VP , COO\nTrinh Van Thao ThaoTV Vice President and Chief People Officer\n執行役員兼最高人事責任者 VP , CPO\nNakai Takumi Nakai.Takumi Vice President and Chief Marketing Officer\n執行役員兼最高マーケティング責任者 VP , CMO\nQuach Lieu Hoan HoanQL Vice President\n執行役員 VP\nLuong Hong Hai HaiLH1 Vice President\n執行役員 VP\nPham Thanh Tuan TuanPT22 Vice President\n執行役員 VP\nNguyen Cong Hoang HoangNC1 Vice President\n執行役員 VP\nLe Tec Nen NenLT Vice President\n執行役員 VP\nFPT Software \nMinhBQ8 2025-11-10 13:26:21\nThank you\nFPT Software \nMinhBQ8 2025-11-10 13:26:21",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-0ce30bc00986b2d69d89fccc334bad4e",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:874c86606b40f402622e4a0a6dc4cfa9",
+      "default:extract:d7eb1d7794b0130090a7a5b9e4295b21"
+    ],
+    "create_time": 1762831771,
+    "update_time": 1762831811,
+    "_id": "chunk-68c7325392d09693d8c49c1e4d3420e8"
+  },
+  "chunk-dfbf8521eeed37b01bbe4a442ed4f951": {
+    "tokens": 21,
+    "content": "FPT Software \nMinhBQ8 2025-11-10 13:26:30",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-dfbf8521eeed37b01bbe4a442ed4f951",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:3726e8bf008cbeb044b5a78da30381d6",
+      "default:extract:40bc99eaa0dc83b43cdac7026d198984"
+    ],
+    "create_time": 1762832650,
+    "update_time": 1762832656,
+    "_id": "chunk-dfbf8521eeed37b01bbe4a442ed4f951"
+  }
+}
