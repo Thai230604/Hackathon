@@ -488,3 +488,29 @@ KeyError: 'OPENAI_API_KEY'
 2025-11-11 11:19:38,533 - lightrag - INFO - Final chunks S+F/O: E39/1 E18/2 E5/3 E19/4 E1/5 E6/6 E4/7 E5/8 E1/9 E3/10 E4/11 E4/12
 2025-11-11 11:19:42,384 - lightrag - INFO -  == LLM cache == saving: hybrid:query:d2f541a8ac890b6cdbe514b97fa5e08a
 2025-11-11 11:19:42,398 - lightrag - INFO - Successfully finalized 12 storages
+2025-11-11 17:16:11,293 - lightrag - INFO - [_] Loaded graph from ./rag_storage\graph_chunk_entity_relation.graphml with 355 nodes, 76 edges
+2025-11-11 17:16:11,380 - lightrag - INFO - [_] Process 33320 KV load full_docs with 9 records
+2025-11-11 17:16:11,392 - lightrag - INFO - [_] Process 33320 KV load text_chunks with 13 records
+2025-11-11 17:16:11,403 - lightrag - INFO - [_] Process 33320 KV load full_entities with 9 records
+2025-11-11 17:16:11,413 - lightrag - INFO - [_] Process 33320 KV load full_relations with 6 records
+2025-11-11 17:16:11,425 - lightrag - INFO - [_] Process 33320 KV load entity_chunks with 355 records
+2025-11-11 17:16:11,435 - lightrag - INFO - [_] Process 33320 KV load relation_chunks with 76 records
+2025-11-11 17:16:11,451 - lightrag - INFO - [_] Process 33320 KV load llm_response_cache with 40 records
+2025-11-11 17:16:11,451 - lightrag - INFO - [_] Process 33320 doc status load doc_status with 9 records
+2025-11-11 17:16:11,790 - lightrag - WARNING - Ignoring document ID (already exists): doc-0ce30bc00986b2d69d89fccc334bad4e (unknown_source)
+2025-11-11 17:16:11,790 - lightrag - WARNING - No new unique documents were found.
+2025-11-11 17:16:11,790 - lightrag - INFO - No documents to process
+2025-11-11 17:16:11,790 - lightrag - WARNING - low_level_keywords is empty
+2025-11-11 17:16:13,372 - lightrag - INFO - Query edges: CEO, Leadership (top_k:40, cosine:0.2)
+2025-11-11 17:16:13,372 - lightrag - INFO - Embedding func: 8 new workers initialized (Timeouts: Func: 30s, Worker: 60s, Health Check: 75s)
+2025-11-11 17:16:14,247 - lightrag - INFO - Global query: 41 entites, 40 relations
+2025-11-11 17:16:14,248 - lightrag - INFO - Raw search results: 41 entities, 40 relations, 0 vector chunks
+2025-11-11 17:16:14,290 - lightrag - INFO - After truncation: 41 entities, 40 relations
+2025-11-11 17:16:14,297 - lightrag - INFO - Selecting 12 from 12 entity-related chunks by vector similarity
+2025-11-11 17:16:14,297 - lightrag - INFO - Find no additional relations-related chunks from 40 relations
+2025-11-11 17:16:14,298 - lightrag - INFO - Round-robin merged chunks: 12 -> 12 (deduplicated 0)
+2025-11-11 17:16:14,301 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-11-11 17:16:14,308 - lightrag - INFO - Final context: 41 entities, 40 relations, 12 chunks
+2025-11-11 17:16:14,308 - lightrag - INFO - Final chunks S+F/O: E18/1 E5/2 E4/3 E3/4 E5/5 E5/6 E5/7 E5/8 E7/9 E4/10 E1/11 E1/12
+2025-11-11 17:16:14,325 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2025-11-11 17:16:14,325 - lightrag - INFO - Successfully finalized 12 storages

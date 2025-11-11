@@ -12,7 +12,7 @@ WORKING_DIR = "./rag_storage"
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
 
-reader = PdfReader("doc/def.pdf")
+reader = PdfReader("doc/FJP Organization Chart_v1.6.pdf")
 text = ""
 
 
@@ -38,7 +38,7 @@ async def main():
         mode = "hybrid"
         print(
           await rag.aquery(
-              "the position of Nguyen Huu Long (LongNH1)",
+              "who is ceo",
               param=QueryParam(mode=mode)
           )
         )
