@@ -22,24 +22,24 @@ async def initialize_rag(working_dir: str):
     return rag
 
 
-# def process_json_for_rag(json_data):
-#     """
-#     Chuyển đổi JSON thành định dạng text phù hợp cho RAG
-#     """
-#     if isinstance(json_data, dict):
-#         text_parts = []
-#         for key, value in json_data.items():
-#             if isinstance(value, (dict, list)):
-#                 text_parts.append(f"{key}: {process_json_for_rag(value)}")
-#             else:
-#                 text_parts.append(f"{key}: {value}")
-#         return "\n".join(text_parts)
+def process_json_for_rag(json_data):
+    """
+    Chuyển đổi JSON thành định dạng text phù hợp cho RAG
+    """
+    if isinstance(json_data, dict):
+        text_parts = []
+        for key, value in json_data.items():
+            if isinstance(value, (dict, list)):
+                text_parts.append(f"{key}: {process_json_for_rag(value)}")
+            else:
+                text_parts.append(f"{key}: {value}")
+        return "\n".join(text_parts)
     
-#     elif isinstance(json_data, list):
-#         return "\n".join([str(process_json_for_rag(item)) for item in json_data])
+    elif isinstance(json_data, list):
+        return "\n".join([str(process_json_for_rag(item)) for item in json_data])
     
-#     else:
-#         return str(json_data)
+    else:
+        return str(json_data)
 
 # async def index_data(rag: LightRAG, file_path: str) -> None:
 #     """
