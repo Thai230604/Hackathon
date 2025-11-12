@@ -1,0 +1,928 @@
+FJP Organization 2025
+Version 1.4
+Effective from May 1st, 2025
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+2
+札幌事業所
+HaiLH1
+• 東京本社
+• KhacDV
+名古屋事業所
+TanNM
+福岡事業所
+Hirose
+広島事業所
+Hoshino
+ＦＰＴニアショアジャパン
+HaiLH1
+• FPT日本語学校
+HoaPTT
+大阪事業所
+Nakai
+栃木事業所
+群馬事業所
+VietLQ
+静岡事業所
+TBD
+人材管理本部
+ビジネスディベロップメント事業本部
+© FPT Japan  Holdings- Internal Use
+法人組織図
+ＦＰＴジャパンホールディングス
+• 東京本社
+• 札幌事業所
+• 名古屋事業所
+• 栃木事業所
+• 大阪事業所
+• 広島事業所
+• 福岡事業所
+• 静岡事業所
+• 群馬事業所
+ホールディングス機能
+KhacDV
+管理本部
+事業所
+ジャパンマーケティング&パブリックリレーション本部
+営業本部
+ＦＰＴ日本語学校 (FPT Japan Academy)
+HoaPTT
+エデュケーション
+子会社
+ＦＰＴソフトウェアジャパン(株) (FSJ)
+KhacDV
+ＦＰＴコンサルティングジャパン(株) (FCJ)
+LongNH1
+ＦＰＴニアショアジャパン(株)（FNS）
+HaiLH1
+ＦＰＴテクノジャパン (株) (FTJ)
+LinhNH9
+(株) エヌ・エイ・シー (NAC)
+Hanaoka
+FPTスマートクラウドジャパン (株) (FCI)
+LongNH1
+ＦＰＴソフトウェア大連 (株) (FDL)
+TuanPT22
+上海扶丕悌软件有限公司 (FSH)
+TuanPT22
+扶丕悌冲软件（大连）有限公司 (FOC)
+TuanPT22
+扶丕悌冲软件（常州）有限公司 (FOD)
+TuanPT22
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software 
+ Sales
+CRO
+LinhNH9
+BU1
+HungDT1
+ST3
+TrinhDHK
+ST5
+ChiNTM1
+ST8
+AnhLH1
+FNS-S
+Miyazato
+NGO
+TanNM
+OSK
+VuongVV
+FKO
+LyNTT8
+ST9
+Emi
+BU3
+LinhNH9
+BIH-S
+Matsumoto
+ST6
+KhangPN1
+ISG ST
+Ise
+ST7
+Sagawa
+SU1
+HungDT1
+SU2
+HungDT1
+BU2
+HoanQL
+SU1
+PhuongNVH
+SU2
+ThinhNP5
+SU1
+LinhNH9
+SU3
+AnhLH12
+SU2
+Oda
+Program&COE
+Rotation
+HoanhND
+GRM
+Vuong.Nguyen
+TuanPT22
+Dynamics/SAP
+PhongNT24
+Endo
+Legacy
+DuongNT
+Healthcare
+HaiLT5
+AI
+LongNH1
+Cobol Park
+GiapHD
+Onouchi
+FJP Organization Chart 2025
+SupportSales Delivery
+CHAIRMAN
+Tanihara
+CEO
+KhacDV
+BOD
+Brand &
+Business
+Promotion
+CMO
+Nakai
+JMC
+Matsukawa
+Workforce
+FUN
+TuanBL
+LDI
+ThaoTV
+HR
+NhuPTQ
+RD1
+LamLT2
+RD2
+DiepNM
+RA
+ManhPD1
+RPP
+Takatori
+CPO
+ThaoTV
+Business
+Assurance
+COF
+VuTH6
+AF
+GiangNT10
+SSC
+HuyenPT1
+CPD
+HoaNT1
+LRC
+NhungCH
+PRC
+NgocNB15
+IT/ISM
+Urata
+FST
+HaiDTT
+FJA
+HoaPTT
+COO
+HoaPTT
+Program
+New
+Establishment New Promotion
+Business Hunting
+EVP
+Vuong.Nguyen
+SCD
+Kameyama
+BCO
+ThaoNTP1
+SPP
+Vuong.Nguyen
+SPD
+Hirota
+SZK
+Vuong.Nguyen
+TSD
+VietLQ
+FCN Sales
+TuanPT22
+CIS
+Tsuchiya
+Delivery
+DPS
+DuyNT21
+MANUFACTURING
+GMG
+HieuNH5
+DMG
+AnhDHV
+FINANCE
+FSG
+NgaPV
+IFS
+PhuongPQ1
+GHC
+HaiLT5
+EBS
+PhongNT24
+GSI
+DaiL1
+NVI
+DuongNT
+DLG
+NenLT
+QA
+HueNT
+FCJ
+LongNH1
+FCJ Sales
+Hasegawa
+JFA
+HoangNC1
+FA Sales
+Hirota
+BIH
+CuongN1
+FNS
+HaiLH1
+NEARSHORE
+JES
+TinNC
+DCC
+Imahashi
+FCN
+TuanPT22
+FAI
+LongNH1
+FOJ
+Kosugi
+SYNERGY UNIT
+DXG
+Fabien
+ISG
+ThuanNPC
+LCG
+HaPV2
+NAC
+Hanaoka
+CDO
+HoanhND
+CEO
+KhacDV
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software 4
+CEO
+KhacDV
+Japan Marketing & Public Relation Division
+Business Development Division Organization Chart 2025
+Brand &
+Business Promotion
+CMO
+Nakai
+JMC
+Matsukawa
+EVP
+Vuong.Nguyen
+FA Business
+Hunting
+FA JBD
+Hirota
+Business Hunting
+SPP
+Vuong.Nguyen
+SPD
+Hirota
+TSD
+VietLQ
+SZK
+Vuong.Nguyen
+SCD
+Kameyama
+BCO
+ThaoNTP1
+AD
+LinhTT43
+BD
+PD
+FCN Sales
+TuanPT22
+Cloud &
+Infrastructure
+Services
+CIS
+Tsuchiya
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software 
+Sales Organization Chart 2025
+ CEO
+KhacDV
+CRO
+LinhNH9
+FA
+Hirota
+FA G3S
+KhangPN1
+FA G1S
+VietLQ
+FA G5S
+TungNS32
+BU3
+LinhNH9
+SU1
+LinhNH9
+SU2
+Oda
+SU3
+AnhLH12
+BU2
+HoanQL
+SU2
+ThinhNP5
+SU1
+PhuongNVH
+BU1
+HungDT1
+SU1
+HungDT1
+SU2
+HungDT1
+ST3
+TrinhDHK
+ST5
+ChiNTM1
+ST6
+KhangPN1
+ST8
+AnhLH1
+ST7
+Sagawa
+ST9
+Emi
+ISG ST
+Ise
+BIH-S
+Matsumoto Toru
+NGO
+TanNM
+OSK
+VuongVV
+FKO
+LyNTT8
+FNS-S
+Miyazato
+BOD
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+※ ( ) Acting
+※New Promotion
+※New Establishment
+Delivery Organization Chart 2025
+FCJ
+LongNH1
+Onouchi
+CEO
+KhacDV
+CDO
+HoanhND
+EBS
+PhongNT24
+Hayashi
+SC
+(QuynhDM)
+DC
+(QuanHM3)
+JFA
+HoangNC1
+PDS
+AnNV17
+ABX
+CuongNV87
+NEARSHORE
+JES
+TinNC
+JES JPC
+HuynhDT
+FNS
+HaiLH1
+Miyazato
+TEST
+HangNT
+DEV
+ThanhVTC
+Okinawa
+FKO
+Hirose
+ToanTX1
+HKD
+HaiLH1
+Konaka
+GSI
+DaiL1
+D1
+ThongVN
+D2
+DaiL1
+GHC
+HaiLT5
+PA
+HaiLT5
+DH
+HoangPD3
+ME
+(ThuyetDN)
+NVI
+DuongNT
+TS
+DienTQ
+US
+NhanDT3
+MS
+MinhNQ33
+IS
+AnhDT8
+FINANCE
+IFS
+PhuongPQ1
+IS
+GiapHD
+MK
+PhuongPQ1
+FS
+PhuongPQ1
+FSG
+NgaPV
+DX
+(HungNV1)
+CX
+HuyNQ23
+CO
+NgaPV
+Tanaka
+QA
+HueNT
+QA FNS
+PhuongNLTM
+COMMON
+DCC
+Imahashi
+PMO
+ManhPD1
+DC
+Imahashi
+DLG
+NenLT
+PhuocTT
+RD
+(TuanDM5)
+EM
+HongLTB
+AS
+MinhLN2
+MS
+DinhNT
+G1
+VietLQ
+G1D
+CuongNV58
+G3
+KhangPN1
+G3D1
+ThanhDD3
+G3D2
+LePTN
+G5
+TungNS32
+G5D2
+LocNP
+G5D1
+LyLM1
+GMG
+HieuNH5
+MPE
+HieuNH5
+MDX
+TuanNB
+MCW
+HuyTV4
+DMG
+AnhDHV
+G2
+AnhDHV
+G3
+SonPT
+MANUFACTURING
+BIH
+CuongN1
+DPS
+DuyNT21
+FCN
+TuanPT22
+PMO
+PhongHV
+Rotation
+HoanhND
+GRM
+Vuong.Nguyen
+TuanPT22
+Dynamics/SAP
+PhongNT24
+Endo
+Legacy
+DuongNT
+Healthcare
+HaiLT5
+AI
+LongNH1
+Cobol Park
+GiapHD
+Onouchi
+FAI
+LongNH1
+Tosaki
+BinhDT20
+JDCC (NenLT, TuanPT22, HaNH2, HoangNC1, ManhPD1, HueNT)
+Synergy Unit
+LCG
+HaPV2
+DXG
+Fabien
+NAC
+Hanaoka
+Inaba
+ISG
+ThuanNPC
+TrungTQ13
+IMS
+ThuanNPC
+Tagawa
+SEMI / CL
+TrungTQ13
+NB
+AnhNTV23
+FOJ
+Kosugi
+MSD
+Fukuoka
+MSI
+Kosugi
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+Business Assurance Division
+Organization Chart 2025
+COO
+HoaPTT
+CEO
+KhacDV
+Finance
+CPD
+HoaNT1
+AF
+GiangNT10
+Legal
+LRC
+NhungCH
+LRC
+GSD
+FC
+SSP
+Administration
+SSC
+HuyenPT1
+PRC
+NgocNB15
+System & Education
+IT/ISM
+Urata
+FST
+HaiDTT
+FJA
+HoaPTT
+Vice
+QuyenBTN
+COF
+VuTH6
+MA
+VuTH6
+COF
+VanBK
+IC
+TungHT15
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software 8
+Workforce Division
+Organization Chart 2025
+CPO
+ThaoTV
+CEO
+KhacDV
+PROGRAM
+Career Development (CD)
+Iijima/ HaLT12
+Workforce iDX (wDX)
+LienTK2
+Corporate Sustainability Promotion (CSP)
+Kimura
+13k5
+ManhPD1
+Employee Experience (EX)
+TuanBL
+Employee Branding (EB)
+AnhNP29
+Fresher Academy (FrA)
+LamLT2
+Talent Acquisition
+RD1
+LamLT2
+RD2
+DiepNM
+RPP
+Takatori
+Planning & Assignment
+RA
+ManhPD1
+Culture & Employee
+Experience
+FUN
+TuanBL
+Human Management
+HR
+NhuPTQ
+Vice
+HanNTT
+Learning & Development
+LDI
+ThaoTV
+Vice
+Takatori
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software 
+Operation ConsultingTechnology ConsultingBusiness/DX Consulting
+FCJ Overall Management
+FCJ Organization Chart 2025 CEO
+LongNH1
+Corporate Management (CMG)
+Tada
+Operation Transformation
+(OX)
+Arakawa
+Low code & Modernization Service
+(LMS)
+Tabata
+Technology Service
+(TS)
+Araki
+Tanaka
+Microsoft Solution Service
+(MSS)
+NgocNK
+Customer Transformation Service
+(CX)
+Ishihara
+SAP-Core Account
+(SC)
+Ogawa.Shinji
+SAP-Migration
+(SM)
+Kagawa
+SAP-Application MS
+(SA)
+Watanabe.Osamu
+SAP-Implementation
+(SI)
+Saegusa
+Managed Service
+(MS)
+Kosugi
+Business Consulting (BX)
+Kawakami
+Business Transformation
+(BX)
+Kawakami
+Manufacturing SCM Solution
+(MSS)
+Mashimo
+Enterprise Management Solution
+(EMS)
+Ogawa.Yusuke
+General Construction Solution
+(GCS)
+Seta
+People Transformation
+(PX)
+Suzuki.Takuya
+Kyushu Transformation
+(KSX)
+Kawano
+Enterprise Transformation (EX)
+Endo
+LongNH1
+ OnouchiYoshida
+BOD
+Endo
+Kawakami Hasegawa
+EXCO
+Digital Transformation Service (DX)
+Onouchi
+Hidaka
+Biz Producer Service
+(BPG & Sales)
+Hasegawa
+Tsubota
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software
+10
+FPT NAC
+Organization Chart 2025
+Ecosystem
+Business Solution
+Creative
+Intelligence
+Enterprise
+Solution
+Corporate Management
+Okagawa
+Mana
+Kamakura
+Takeshi
+Kusaba
+Kosuke
+Soshi
+Nobuo
+Yamamoto
+Ryosuke
+Professional
+Service
+Kitajima
+Michiharu
+BOD
+Hanaoka – LongNH1 – Inaba
+CEO
+Hanaoka
+Kumakiri
+Katsuomi
+Naito
+Tomoko
+Information system Management
+Yamamoto
+Ryosuke
+Business
+Producer Sales
+Hanaoka
+Makoto
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software 
+LongNH1
+FPT AI Organization Chart 2025
+LongNH1 Tosaki BinhDT20
+SALES & MARKETING
+LongNH1
+FAI MKT
+HongHV
+FAI-S
+LongNH1
+AI FACTORY
+(FCIJ)
+Uemura
+FCIJ AFC
+Muraoka
+FCIJ AFO
+Kuramoto
+DATA & AI SERVICES
+BinhDT20
+FAI AIP
+VinhND1
+FAI TIX
+NhungNTH8
+FAI ABC
+VinhND1
+HieuLX
+FAI DAC
+BinhDT20
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software
+CEO
+TuanPT22
+DELIVERY
+BinhND20
+FPT China Organization Chart 2025
+BOD
+SALES
+TuanPT22
+DLS
+WORKFORCE &
+BUSINESS ASSURANCE
+HoaPTT
+FOC GA
+FOD GA
+FCN SUPFOD
+ShihaiW
+TD1
+WeiguoX
+TD2
+JingruL
+TD3
+ShihaiW
+FOC
+YadongZ
+JunfengC
+TD1
+YingangH
+TD2
+NingZ
+TD3
+XinL
+FDL
+BinhND20
+DC
+BinhND20
+FSH
+BinhND20
+FA
+HoangNC1
+DMO
+BinhND20
+BCO
+ST2
+ST1
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+© Copyright FPT Software – Level of Confidentiality 
+FPT JAPAN GROUP - TOP MANAGEMENT
+Manager Full Name Account Mail Position FSO Title FJP Title
+Tanihara Toru Tanihara.Toru FJP Chairman
+取締役会長 Chairman
+Do Van Khac KhacDV
+FSOFT Senior Executive Vice President
+FJP Representative Director and Chief Executive Officer
+FJP 代表取締役社長
+SEVP , PPL CEO
+Nguyen Viet Vuong Vuong.Nguyen
+FSOFT Vice President
+FJP Executive Vice President
+FJP 代表取締役副社長
+VP EVP
+Nguyen Huu Long LongNH1
+FSOFT Senior Vice President
+FJP Executive Vice President
+FJP専務執行役員
+SVP EVP
+Nguyen Hoang Linh LinhNH9
+FSOFT Vice President
+FJP Senior Vice President  and Chief Revenue Officer
+FJP 専務執行役員兼最高レベニュー責任者
+VP SVP , CRO
+Nguyen Duc Hoanh HoanhND
+FSOFT Vice President and Deputy Chief Delivery Officer
+FJP Senior Vice President and Chief Delivery Officer
+FJP 専務執行役員兼最高デリバリー責任者
+VP , Deputy CDO SVP , CDO
+Pham Thi Thanh Hoa HoaPTT Vice President and Chief Operating Officer
+取締役執行役員兼最高執行責任者 VP , COO
+Trinh Van Thao ThaoTV Vice President and Chief People Officer
+執行役員兼最高人事責任者 VP , CPO
+Nakai Takumi Nakai.Takumi Vice President and Chief Marketing Officer
+執行役員兼最高マーケティング責任者 VP , CMO
+Quach Lieu Hoan HoanQL Vice President
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+執行役員 VP
+執行役員 VP
+Luong Hong Hai HaiLH1 Vice President
+執行役員 VP
+Pham Thanh Tuan TuanPT22 Vice President
+執行役員 VP
+Nguyen Cong Hoang HoangNC1 Vice President
+執行役員 VP
+Le Tec Nen NenLT Vice President
+執行役員 VP
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
+Thank you
+FPT Software
+MinhBQ8 2025-11-10 13:26:21
